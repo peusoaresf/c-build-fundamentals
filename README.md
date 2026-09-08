@@ -2,7 +2,7 @@
 
 A sandbox repo to play around with C fundamentals I've been scared to learn since 4ever due to convenience of IDEs and build tools.
 
-This repo contains a simplistic attempt at a HAL (hardware abstraction layer) layering structure to blink an imaginary LED light (outputting the current state to the standard console out), building targets to both MacOS and Windows.
+This repo contains a simplistic attempt at a HAL (hardware abstraction layer) structure to blink an imaginary LED light (outputting the current state to the standard console out), building targets to both MacOS and Windows.
 
 ## Getting Started
 
