@@ -1,0 +1,1 @@
+void bootstrap_uc();
